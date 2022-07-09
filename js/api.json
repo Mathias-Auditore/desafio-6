@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 45000,
+      "id": 0,
+      "title": "Bajo Electrico",
+      "thumbnailUrl": "bajo-electrico.jpg"
+    },
+    {
+      "precio": 50000,
+      "id": 1,
+      "title": "Guitarra Electrica",
+      "thumbnailUrl": "guitarra-electrica.jpg"
+    },
+    {
+      "precio": 60000,
+      "id": 2,
+      "title": "Piano",
+      "thumbnailUrl": "piano.jpg"
+    },
+    {
+      "precio": 14000,
+      "id": 3,
+      "title": "Violin",
+      "thumbnailUrl": "violin.jpg"
+    },
+    {
+      "precio": 28000,
+      "id": 4,
+      "title": "Saxofón",
+      "thumbnailUrl": "saxofon.jpg"
+    },
+    {
+      "precio": 30000,
+      "id": 5,
+      "title": "Clarinete",
+      "thumbnailUrl": "clarinete.jpg"
+    }
+  ]
